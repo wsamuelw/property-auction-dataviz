@@ -62,9 +62,9 @@ cd proj-auction-results
 
 ```r
 install.packages(c("rvest", "dplyr", "ggmap", "leaflet", "sqldf", "zoo", "gmapsdistance"))
-source("R/1, Data Extraction Code.R")
-source("R/2, Data Cleansing.R")
-source("R/3, Data Visualization.R")
+source("r code/1, Data Extraction Code.R")
+source("r code/2, Data Cleansing.R")
+source("r code/3, Data Visualization.R")
 ```
 
 ## Data
