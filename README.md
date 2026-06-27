@@ -56,8 +56,8 @@ Each suburb is geocoded via Google Maps API and assigned:
 ## Setup
 
 ```bash
-git clone https://github.com/wsamuelw/proj-auction-results.git
-cd proj-auction-results
+git clone https://github.com/wsamuelw/property-auction-dataviz.git
+cd property-auction-dataviz
 ```
 
 ```r
