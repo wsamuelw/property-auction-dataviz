@@ -2,6 +2,10 @@
 
 Scraping, cleaning, and visualising Melbourne property auction results — with geocoding, CBD distance calculations, and an interactive map.
 
+<p align="center">
+  <img src="https://github.com/wsamuelw/property-auction-dataviz/blob/master/image/dataviz.PNG" width="800" />
+</p>
+
 ## Problem
 
 Melbourne's property auction market moves fast. Getting a clear picture of what's selling, where, and at what price requires pulling data from scattered sources and making sense of it. This project automates that: scrape auction results, clean the messy price formats, enrich with location data, and visualise it all on an interactive map.
