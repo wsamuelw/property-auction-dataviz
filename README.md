@@ -24,7 +24,7 @@ The final output is an interactive map of Melbourne showing:
 - **Popups** — median sale price on click
 - **Layer toggle** — filter by House / Townhouse / Unit
 
-![Map Preview](https://github.com/wsamuelw/proj-auction-results/blob/main/IMG/img_3.PNG)
+![Map Preview](https://github.com/wsamuelw/proj-auction-results/blob/main/image/img_3.PNG)
 
 ## Data Pipeline
 
